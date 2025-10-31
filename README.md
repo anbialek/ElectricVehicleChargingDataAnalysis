@@ -35,7 +35,7 @@ pip install -r requirements.txt
 3. Ouvrir le notebook :
 ```bash
 jupyter notebook notebooks/01_data_cleaning_eda.ipynb
-
+```
 ---
 
 ### 🇬🇧 Summary (for non-French readers)
